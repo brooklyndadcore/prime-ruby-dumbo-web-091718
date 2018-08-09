@@ -5,5 +5,6 @@ def prime(number)
         return false
       end
     end
+  end
     return true
 end
